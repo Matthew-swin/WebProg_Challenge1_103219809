@@ -1,0 +1,73 @@
+/* need to get rid of margin*/
+body {
+margin: 0;
+background-color:#1565C0 ;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+/* need for background color */
+.header {
+background-color:#263238 ;
+color: white;
+padding-top: 3%;
+padding-bottom: 2%;
+}
+
+/* need for background color */
+.body {
+margin-bottom: 0;
+background-color:#1565C0 ;
+color: white;
+vertical-align: middle;
+padding-top: 2%;
+padding-bottom: 2%;
+}
+
+/*need for background color */
+.end {
+background-color: #42A5F5;
+color: white;
+padding-top: 2%;
+padding-bottom: 2%;
+}
+
+/*need for spacing on left */
+.paddingbody {
+padding-left: 2%;
+margin-block-start: 0.2em;
+margin-block-end: 0.2em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}
+
+/*need of heading spacing left and within itself */
+.paddingheadings {
+padding-left: .8%;
+margin-block-start: 0.2em;
+margin-block-end: 0.2em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}
+
+/*need for spacing sentences */
+.point {
+padding-left: 3.1%;
+margin-block-start: 0.2em;
+margin-block-end: 0.2em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}
+
+/* need for font type */
+.bold {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+/* need for grey background */
+.grey {
+background-color: grey;
+font-size: smaller;
+padding: 3px;
+border-radius: 2px;
+}
+
